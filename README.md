@@ -12,5 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=caiyee98&style=flat-square&color=blue" alt=""/>
 </p>
 
-### :woman_technologist: About Me :
-- :telescope: I'm a AI enthusiast.
+### 📖: About Me :
+- :woman_technologist: AI Enginner | Software Engineer (Front End) | Biomedical Engineer
+- :seedling: Learn
