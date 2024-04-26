@@ -3,6 +3,6 @@
 </div>
 <div id="badges">
   <a href="http://linkedin.com/in/changcaiyee">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" max-width=100%/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" max-width="100%"/>
   </a>
 </div>
