@@ -16,6 +16,8 @@
 ### 📖: About Me :
 - :woman_technologist: AI Engineer | Software Engineer (Front End) | Biomedical Engineer
 - :seedling: Always Learning
+- 🤯 Area of Interest:
+    - AI Driven Healthcare Applications 
 
 ---
 
