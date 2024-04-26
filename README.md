@@ -12,6 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=caiyee98&style=flat-square&color=blue" alt=""/>
 </p>
 
+---
 ### 📖: About Me :
-- :woman_technologist: AI Enginner | Software Engineer (Front End) | Biomedical Engineer
+- :woman_technologist: AI Engineer | Software Engineer (Front End) | Biomedical Engineer
 - :seedling: Learn
+
+---
+
+### :hammer_and_wrench: Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+</div>
