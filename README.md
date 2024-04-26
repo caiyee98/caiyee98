@@ -12,6 +12,4 @@
   <img src="https://komarev.com/ghpvc/?username=caiyee98&style=flat-square&color=blue" alt=""/>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnIwcGFxcjZxZGJsbHpjNHNnNThwb2sxNGRnbm1nMGZuNzc3cGZzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AKjT5kDZMK4wsPXJPk/giphy.gif" width="600" height="300"/>
-</div>
+### :woman_technologist: About Me :
